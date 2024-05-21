@@ -17,6 +17,6 @@ Original text source: https://a16z.com/the-techno-optimist-manifesto/
 
 - The v1 cover is designed for use with staples, suitable for a simpler and more flexible binding method.
 
-- The v2 cover includes a left-out white space for glue, suitable for binding with glue to create a more durable, professional finish.
+- The v2 cover includes a left-out white space for glue, suitable for binding with glue to create a more durable, professional finish (instructions for this kind of design came directly from the printing company).
 
 - I know nothing about print and you should doublecheck with the printing company of your choice whether the result will look as expected (it did in our case, but these things may differ from company to company / country to country.)
